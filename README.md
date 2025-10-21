@@ -54,3 +54,75 @@ For questions, support, or data removal requests, please contact the developer t
 
 --- 
 
+
+
+
+---
+
+🌸 Kurumi Bot — Privacy Policy
+
+Last Updated: October 2025
+
+This Privacy Policy explains how Kurumi, the anime-inspired multipurpose Discord bot, handles user and server data. By using Kurumi, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+
+Kurumi only collects minimal, non-sensitive information necessary for her features to function properly. This may include:
+
+User IDs and Server IDs — used for storing preferences or configurations.
+
+Command Usage Data — basic logs for debugging and improving performance.
+
+Temporary Music Data — queue or playback info stored only during active sessions.
+
+
+Kurumi does not collect chat messages, personal information, or any sensitive data.
+
+2. How We Use the Data
+
+Collected data is used exclusively to:
+
+Provide and improve Kurumi’s core features.
+
+Remember user or server-specific settings.
+
+Maintain bot stability and prevent abuse.
+
+
+No data is sold, shared, or disclosed to third parties under any circumstances.
+
+3. Data Storage and Retention
+
+Data is stored securely and temporarily, and may be automatically deleted after periods of inactivity or when no longer needed. Users or server owners can request data removal at any time via the support server.
+
+4. Third-Party Services
+
+Kurumi may interact with third-party APIs (e.g., for music or anime information). These services are governed by their own privacy policies. Kurumi does not control or store data collected by third-party providers.
+
+5. User Rights
+
+You have the right to:
+
+Request deletion of stored data.
+
+Ask for information about what data Kurumi holds.
+
+Stop using Kurumi at any time by removing her from your server.
+
+
+6. Security
+
+Reasonable steps are taken to protect stored data from unauthorized access or misuse. However, no system is completely secure — use Kurumi responsibly.
+
+7. Policy Updates
+
+This policy may be updated periodically. Any major changes will be announced in the official support server or relevant communication channels.
+
+8. Contact
+
+For questions, data requests, or concerns about privacy, please reach out through the official Kurumi support server or the developer’s contact link.
+
+
+
+---
+
